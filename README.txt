@@ -1,8 +1,8 @@
 We are a team of three
 
-#1- NAME: Bodhu Shravya UID: U01122915 EMAIL:bodhu.2@wright.edu 
-#2- NAME: Lohitha Donuri UID: U01125638 EMAIL: donuri.3@wright.edu
-#3- NAME: Niharika Kanugovi UID: U01108474 EMAIL: Kanugovi.2@wright.edu    
+#1- NAME: Bodhu Shravya 
+#2- NAME: Lohitha Donuri
+#3- NAME: Niharika Kanugovi    
 
 Before running the project make sure to activate the environment with required dependencies provided in requirements.txt file.
 
